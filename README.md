@@ -8,15 +8,9 @@ Chat Cyclone is a feature-packed messaging app offering fast, customizable, and 
 |:--      | :----:                         | :----:         |                      ---: |
 |Mac      | Flutter 3.3.10 • channel stable| Android Studio | Emulator - Pixel 5 API 30 |
 |         | Dart 2.18.6 • DevTools 2.15.0  |                | Simulator - Iphone 14     |
-|         |                                |                | Real Device - VIVO Y21    |
-
-#### State Management
-
-- Getx
-
-
-
-
+|         |                                |                | Real Device - Poco 5      |
+|Windows  |Flutter 3.3.10 • channel stable | Android Studio | Emulator - Google Pixel 6 | 
+|         |Dart 2.18.6 • DevTools 2.15.0   |                | real Device -Vivi y21     |
 
 
 
