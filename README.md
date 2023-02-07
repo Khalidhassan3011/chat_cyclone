@@ -10,6 +10,11 @@ Chat Cyclone is a feature-packed messaging app offering fast, customizable, and 
 |         | Dart 2.18.6 • DevTools 2.15.0  |                | Simulator - Iphone 14     |
 |         |                                |                | Real Device - VIVO Y21    |
 
+#### State Management
+
+- Getx
+
+
 
 
 
